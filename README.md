@@ -9,3 +9,12 @@ implementazione :   https://phillipi.github.io/pix2pix/
  google code book : https://www.tensorflow.org/tutorials/generative/pix2pix
  
  
+ 
+ # ---- #
+ 
+ info : 
+The pix2pix model works by training on pairs of images such as building facade labels to building facades, and then attempts to generate the corresponding output image from any input image you give it
+
+Trained on about 2k stock cat photos and edges automatically generated from those photos
+ 
+ 
